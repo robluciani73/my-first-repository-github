@@ -5,3 +5,5 @@ Thi file was modified locally by VSC!
 This line was modified in feature-2 branch!
 
 Another modification in the feature-2 branch
+
+Testo il comando git show-ref!
